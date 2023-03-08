@@ -1,0 +1,26 @@
+
+03:49:44,590 INFO [megamek.MegaMek] {main} 
+redirectOutput(), line 251 : Redirecting output to megameklog.txt
+
+03:49:44,673 INFO [megamek.MegaMek] {main} 
+showInfo(), line 394 : Starting MegaMek v0.48.0 ...
+	Compiled on Fri Mar 05 08:37:34 PST 2021
+	Today is 2023-03-08
+	Java vendor Ubuntu
+	Java version 11.0.18
+	Platform Linux 5.19.0-35-generic (amd64)
+	Total memory available to MegaMek: 1,048,576 kB
+
+03:49:44,772 INFO [megamek.MegaMek] {main} 
+startGUI(), line 316 : Starting GUI swing. args: []
+Loaded Font: Battletech Oldstyle
+Parsing defaultKeyBinds.xml
+Parsing finished.
+Total number of key binds parsed: 44
+Parsing BW - Default.xml
+Parsing finished.
+Security framework of XStream not explicitly initialized, using predefined black list on your own risk.
+MMRandom: generating RNG type #1
+Parsing customWeaponOrder.xml
+...Parsing finished.
+	Total number of custom weapon order entries: 0
